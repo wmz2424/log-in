@@ -1,0 +1,40 @@
+.form{
+    border: 10px solid red;
+    font-size: 30px;
+    font-weight: bold;
+    background: linear-gradient(to top,blue,yellow);
+    border-radius: 43px;
+    text-align: center;
+    font-family: monospace;
+
+}
+.loginheading{
+    font-size: 35px;
+    text-align: center;
+}
+.divusername{
+    margin-bottom: 25px;
+}
+.usernameInput{
+    width: 247px;
+    height: 35px;
+    font-size: 25px;
+   font-family: monospace;
+   border-radius: 19px;
+   text-align: center;
+   color:red ;
+}
+.passwordInput{
+    color: #000;
+}
+.buttonsave{
+    text-align: center;
+    font-size: 39px;
+    border-radius: 20px;
+    background:gray ;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family:  monospace;
+    padding: 5px 10px;
+    border: 2px solid red;
+}
